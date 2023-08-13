@@ -56,16 +56,6 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Software Testing" width="30" height="30"/> Software Testing
 </p>
 
-
-<p align="right">
-  <a href=#><img src="contributions.svg"></a>
-</p>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salahbendary&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
-</div>
-
 # My Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salahbendary&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
