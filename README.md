@@ -46,16 +46,11 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left"> 
-- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> Arduino
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> C Programming
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> C++
-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> Git
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> Java
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> Linux
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="20" height="20"/> MATLAB
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
+- Python
+- C Programming
+- Arduino, AVR, Eclipse, PIC, ARM, MATLAB, LINUX, SOFTWARE TESTING
 </p>
 
 # 
@@ -70,4 +65,8 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 # My Stats
 <div align="center">
-  <img height="180em" src="
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salahbendary&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact&langs_count=20&theme=transparent"/>
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
