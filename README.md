@@ -48,25 +48,11 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 <h3 align="left">Skills:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="30" height="30"/> C Programming
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> Linux
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30"/> Arduino
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/avr/avr-original.svg" alt="AVR" width="30" height="30"/> AVR
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="30" height="30"/> Eclipse
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pic/pic-original.svg" alt="PIC" width="30" height="30"/> PIC
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arm/arm-original.svg" alt="ARM" width="30" height="30"/> ARM
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="30" height="30"/> MATLAB
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/softwaretesting/softwaretesting-original.svg" alt="Software Testing" width="30" height="30"/> Software Testing
+- Python
+- C Programming
+- Linux
+- Arduino
+- Software Testing
 </p>
 
 # 
@@ -85,4 +71,4 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
