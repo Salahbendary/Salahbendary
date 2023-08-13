@@ -44,4 +44,3 @@ Let's connect and share ideas:
 <!-- Languages and Tools section can be added here, similar to the style you provided in your profile. -->
 
 <!-- Connect with Me section can be added here, similar to the style you provided in your profile. -->
-
