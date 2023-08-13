@@ -23,16 +23,16 @@
 <a href="https://www.hackerrank.com/salahbendary1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salahbendary1" height="30" width="40" /></a>
 <a href="https://github.com/Salahbendary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Salahbendary" height="30" width="40" /></a>
 </p>
+  
+## Interests
 
-<h3 align="left">Interests:</h3>
+I have a deep interest in several areas that I could talk about for hours:
 
-<p align="left"> 
 - 🌐 **Embedded Systems Automotive**: Exploring the fusion of embedded systems and the automotive industry.
 - 💻 **C Programming**: Utilizing the power of C for efficient and low-level software solutions.
 - 🕰️ **RTOS (Real-Time Operating Systems)**: Understanding time-critical task management.
 - ⚙️ **ARM Architecture**: Fascination with ARM processors and their diverse applications.
 - 🚗 **AUTOSTAR**: Merging my passion for embedded systems and automotive innovations.
-</p>
 
 ## GitHub Projects
 
