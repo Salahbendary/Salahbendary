@@ -1,15 +1,3 @@
-### Hi there 👋
-
-<!--
-**Salahbendary/Salahbendary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">Salah Bendary</h1>
-<h3 align="center">Electronics and Communication Engineering Graduate | Embedded Developer</h3>
-
-<p align="right">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
-
 <h1 align="center">Salah Bendary</h1>
 <h3 align="center">Electronics and Communication Engineering Graduate | Embedded Developer</h3>
 
