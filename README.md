@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2> Hey there! I'm Salah Bendary</h2>
+<h2 align="center"> Hey there! I'm Salah Bendary</h2>
 
-<img width="200" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+<p align="center">
+  <img width="200" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+</p>
 
 <h3 align="center">Electronics and Communication Engineering Graduate | Embedded Developer</h3>
 
-### <p align="center">Visitor counter<p>
+<p align="center">Visitor counter</p>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Salahbendary/count.svg" />
@@ -56,10 +58,17 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Software Testing" width="30" height="30"/> Software Testing
 </p>
 
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salahbendary&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+</div>
+
 # My Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salahbendary&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></a>
+</p>
