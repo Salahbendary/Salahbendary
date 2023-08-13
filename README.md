@@ -1,22 +1,38 @@
-<h1 align="center">Salah Bendary</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<h2> Hey there! I'm Salah Bendary</h2>
+
+<img width="200" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+
 <h3 align="center">Electronics and Communication Engineering Graduate | Embedded Developer</h3>
 
-<p align="right">
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+### <p align="center">Visitor counter<p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Salahbendary/count.svg" />
 </p>
 
-- 👨‍🎓 I'm a graduate in Electronics and Communication Engineering from Egypt.
-- 💼 Aspiring to become an Embedded Developer and R&D Engineer.
+<h3 align="left">Connect with me:</h3>
 
-## Interests
+<p align="left">
+<a href="https://linkedin.com/in/salahbendary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salahbendary" height="30" width="40" </a>
+<a href="mailto:salahbendary1@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30" width="30" /></a>
+<a href="https://www.facebook.com/salahbendaryy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salahbendaryy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/salahbendary1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salahbendary1" height="30" width="40" /></a>
+<a href="https://github.com/Salahbendary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Salahbendary" height="30" width="40" /></a>
+</p>
 
-I have a deep interest in several areas that I could talk about for hours:
+<h3 align="left">Interests:</h3>
 
+<p align="left"> 
 - 🌐 **Embedded Systems Automotive**: Exploring the fusion of embedded systems and the automotive industry.
 - 💻 **C Programming**: Utilizing the power of C for efficient and low-level software solutions.
 - 🕰️ **RTOS (Real-Time Operating Systems)**: Understanding time-critical task management.
 - ⚙️ **ARM Architecture**: Fascination with ARM processors and their diverse applications.
 - 🚗 **AUTOSTAR**: Merging my passion for embedded systems and automotive innovations.
+</p>
 
 ## GitHub Projects
 
@@ -30,17 +46,28 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
 
-## Contact Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> Arduino
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> C Programming
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> C++
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> Linux
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="20" height="20"/> MATLAB
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> Python
+</p>
 
-Let's connect and share ideas:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahbendary/)
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/salahbendary1)
-- ![Mobile Number](https://img.shields.io/badge/Mobile%20Number-%2B201013625678-%230077B5?style=for-the-badge)
-- ![Location](https://img.shields.io/badge/Location-Cairo,%20Egypt-%230077B5?style=for-the-badge)
+# 
+<a href=#><img src="contributions.svg"></a>
+#
 
-<!-- CV Section (Empty for now) -->
-## CV
 
-<!-- Languages and Tools section can be added here, similar to the style you provided in your profile. -->
+<div align="center">
+  <br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salahbendary&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" />
+</div>
 
-<!-- Connect with Me section can be added here, similar to the style you provided in your profile. -->
+# My Stats
+<div align="center">
+  <img height="180em" src="
