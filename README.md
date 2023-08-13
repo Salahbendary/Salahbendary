@@ -55,7 +55,6 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> Linux
   💡 Software Testing
 </p>
-
 <a href=#><img src="contributions.svg"></a>
 
 <div align="center">
