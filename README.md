@@ -6,8 +6,7 @@
 </p>
 
 - 👨‍🎓 I'm a graduate in Electronics and Communication Engineering from Egypt.
-- 💼 Aspiring to become an Embedded Developer and R&D Engineer at Valeo Egypt Company.
-- 💻 Hobbies: Coding in C language, hitting the gym, and exploring nutrition.
+- 💼 Aspiring to become an Embedded Developer and R&D Engineer.
 
 ## Interests
 
@@ -22,7 +21,7 @@ I have a deep interest in several areas that I could talk about for hours:
 ## GitHub Projects
 
 Feel free to explore my repositories, where you'll find projects related to my interests:
-- [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): A project related to PIC18F4620 microcontroller.
+- [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): A projects related to PIC18F4620 microcontroller.
 - [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
 - [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
 - [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
