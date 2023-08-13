@@ -45,34 +45,21 @@ Feel free to explore my repositories, where you'll find projects related to my i
 🔗 [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
 
 🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
+
 <h3 align="left">Skills:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="30" height="30"/> C Programming
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30"/> Arduino
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="30" height="30"/> Eclipse
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pic/pic-original.svg" alt="PIC" width="30" height="30"/> PIC
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arm/arm-original.svg" alt="ARM" width="30" height="30"/> ARM
-  <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="30" height="30"/> MATLAB
-  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> Linux
-  <br>
   💡 Software Testing
 </p>
 
-#
 <a href=#><img src="contributions.svg"></a>
-#
-
-<a href=#><img src="contributions.svg"></a>
-#
-
 
 <div align="center">
   <br>
