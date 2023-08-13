@@ -48,9 +48,9 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
-- Python
-- C Programming
-- Arduino, AVR, Eclipse, PIC, ARM, MATLAB, LINUX, SOFTWARE TESTING
+- Python <img src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="Python" width="20" height="20"/>
+- C Programming <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" alt="C Programming" width="20" height="20"/>
+- Arduino, AVR, Eclipse, PIC, ARM, MATLAB, Linux, Software Testing <img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="Skills" width="20" height="20"/>
 </p>
 
 # 
