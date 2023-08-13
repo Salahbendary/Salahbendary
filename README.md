@@ -21,18 +21,29 @@ I have a deep interest in several areas that I could talk about for hours:
 ## GitHub Projects
 
 Feel free to explore my repositories, where you'll find projects related to my interests:
-- [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): A projects related to PIC18F4620 microcontroller.
-- [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
-- [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
-- [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
+
+🔗 [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): A project related to PIC18F4620 microcontroller.
+
+🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
+
+🔗 [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
+
+🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
 
 ## Contact Me
 
 Let's connect and share ideas:
-- LinkedIn: [Salah Bendary](https://www.linkedin.com/in/salahbendary/)
-- HackerRank: [salahbendary1](https://www.hackerrank.com/salahbendary1)
-- Mobile Number: +201013625678
-- Location: Cairo, Egypt
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahbendary/)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/salahbendary1)
+- ![Mobile Number](https://img.shields.io/badge/Mobile%20Number-%2B201013625678-%230077B5?style=for-the-badge)
+- ![Location](https://img.shields.io/badge/Location-Cairo,%20Egypt-%230077B5?style=for-the-badge)
+
+<!-- CV Section (Empty for now) -->
+## CV
+
+<!-- Languages and Tools section can be added here, similar to the style you provided in your profile. -->
+
+<!-- Connect with Me section can be added here, similar to the style you provided in your profile. -->
 
 <!-- CV Section (Empty for now) -->
 ## CV
