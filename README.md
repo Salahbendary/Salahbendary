@@ -61,3 +61,7 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TOKEN]&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TOKEN]&layout=compact&langs_count=20&theme=transparent"/>
 </div>
+
+
+sed -i 's/[]/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/g' README.md
+
