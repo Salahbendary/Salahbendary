@@ -28,23 +28,23 @@
 
 I have a deep interest in several areas that I could talk about for hours:
 
-- 🌐 **Embedded Systems Automotive**: Exploring the fusion of embedded systems and the automotive industry.
-- 💻 **C Programming**: Utilizing the power of C for efficient and low-level software solutions.
-- 🕰️ **RTOS (Real-Time Operating Systems)**: Understanding time-critical task management.
-- ⚙️ **ARM Architecture**: Fascination with ARM processors and their diverse applications.
-- 🚗 **AUTOSTAR**: Merging my passion for embedded systems and automotive innovations.
+- 🌐 **Embedded Systems Automotive**
+- 💻 **C Programming**
+- 🕰️ **RTOS (Real-Time Operating Systems)**
+- ⚙️ **ARM Architecture**
+- 🚗 **AUTOSTAR**
 
 ## GitHub Projects
 
 Feel free to explore my repositories, where you'll find projects related to my interests:
 
-🔗 [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): A project related to PIC18F4620 microcontroller.
+🔗 [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): Full PIC18F4620 microcontroller Driver. 
 
 🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
 
 🔗 [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
 
-🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): Project on Performance Analysis and Prediction of LTE Networks Using AI.
+🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): [Graduation Project] Performance Analysis and Prediction of LTE Networks Using AI
 
 <h3 align="left">Skills:</h3>
 <p align="left">
