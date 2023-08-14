@@ -56,13 +56,3 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Software Testing" width="30" height="30"/> Software Testing
 </p>
 
-#  My Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salahbendary&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact&langs_count=20&theme=transparent"/>
-</div>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></a>
-</p>
-
