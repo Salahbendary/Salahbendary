@@ -13,8 +13,8 @@ fs.readFile(readmeFile, 'utf8', (err, data) => {
   }
 
   const updatedData = data.replace(
-    /!\[Top Languages\]\(https:\/\/github-readme-stats\.vercel\.app\/api\/top-langs\/\?username=Salahbendary&layout=compact\)/,
-    badge
+    /<!-- Most Used Languages Section \(Don't remove this comment\) -->[\s\S]*<!-- End of Most Used Languages Section -->/,
+    `<!-- Most Used Languages Section (Don't remove this comment) -->${badge}<!-- End of Most Used Languages Section -->`
   );
 
   fs.writeFile(readmeFile, updatedData, 'utf8', (err) => {
