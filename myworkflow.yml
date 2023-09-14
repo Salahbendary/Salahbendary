@@ -1,0 +1,31 @@
+name: Update Language Stats Daily
+
+on:
+  schedule:
+    # Define how often you want the update to occur (e.g., every day).
+    - cron: '0 0 * * *'
+
+jobs:
+  update-languages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update language stats badge
+        run: node update-badge.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Salahbendary"
+          git config user.email "salahbendary1@gmail.com"
+          git commit -am "Update language stats badge [skip ci]"
+          git push
