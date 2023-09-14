@@ -42,7 +42,7 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 2. 🔗 [STM32F103x6_LinkerScript](https://github.com/Salahbendary/STM32F103x6_LinkerScript): Linker script for STM32F103x6 
 
-3. 🔗 [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): Full PIC18F4620 microcontroller Driver. 
+3. 🔗 [PIC18F4620_Driver](https://github.com/Salahbendary/PIC18F4620_Driver): Full PIC18F4620 microcontroller Driver. 
 
 4. 🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
 
