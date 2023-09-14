@@ -38,13 +38,17 @@ I have a deep interest in several areas that I could talk about for hours:
 
 Feel free to explore my repositories, where you'll find projects related to my interests:
 
-🔗 [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): Full PIC18F4620 microcontroller Driver. 
+1. 🔗 [STM32F103x6_StartupCode](https://github.com/Salahbendary/STM32F103x6_StartupCode): Startup code for STM32F103x6 
 
-🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
+2. 🔗 [STM32F103x6_LinkerScript](https://github.com/Salahbendary/STM32F103x6_LinkerScript): Linker script for STM32F103x6 
 
-🔗 [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
+3. 🔗 [PIC18F4620](https://github.com/Salahbendary/PIC18F4620): Full PIC18F4620 microcontroller Driver. 
 
-🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): [Graduation Project] Performance Analysis and Prediction of LTE Networks Using AI
+4. 🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
+
+5. 🔗 [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
+
+6. 🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): [Graduation Project] Performance Analysis and Prediction of LTE Networks Using AI
 
 <h3 align="left">Skills:</h3>
 <p align="left">
