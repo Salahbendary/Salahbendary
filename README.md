@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
- 
+
 <h2> Hey there! I'm Salah Bendary</h2>
 
 <img width="200" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
@@ -60,17 +60,11 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Software Testing" width="30" height="30"/> Software Testing
 </p>
 
-
 # My Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></a>
 </p>
-</div>
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact)
-
-
-
-
