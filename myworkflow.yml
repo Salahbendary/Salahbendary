@@ -2,7 +2,6 @@ name: Update Language Stats Daily
 
 on:
   schedule:
-    # Define how often you want the update to occur (e.g., every day).
     - cron: '0 0 * * *'
 
 jobs:
