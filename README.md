@@ -67,4 +67,4 @@ Feel free to explore my repositories, where you'll find projects related to my i
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=pie)](https://github.com/Salahbendary/Salahbendary/blob/main/README.md)
