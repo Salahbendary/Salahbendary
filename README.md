@@ -66,5 +66,8 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Salahbendary&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800" alt="GitHub Streak" /></a>
 </p>
 
+<p align="center">
+  <a href=
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact) /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=pie)](https://github.com/Salahbendary/Salahbendary/blob/main/README.md)
