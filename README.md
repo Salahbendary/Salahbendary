@@ -70,3 +70,5 @@ Feel free to explore my repositories, where you'll find projects related to my i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salahbendary&layout=compact" alt="Top Languages">
 </p>
 
+![Salah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salahbendary&show_icons=true&bg_color=00000000)
+
