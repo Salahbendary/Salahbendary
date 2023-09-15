@@ -1,8 +1,8 @@
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <h2> Hey there! I'm Salah Bendary</h2>
-
-<img width="200" align="right" alt="Github" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 
 <h3 align="center">Electronics and Communication Engineering Graduate | Embedded Developer</h3>
 
