@@ -44,7 +44,7 @@ Feel free to explore my repositories, where you'll find projects related to my i
 
 4. 🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
 
-5. 🔗 [Vehicle-Control-System](https://github.com/Salahbendary/Vehicle-Control-System): Vehicle Control System project.
+5. 🔗 [Vehicle-Control-System](https://github.com/Salahbendary/VehicleControlSystem): Vehicle Control System project.
 
 6. 🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): [Graduation Project] Performance Analysis and Prediction of LTE Networks Using AI
 
