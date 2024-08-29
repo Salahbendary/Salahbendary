@@ -4,7 +4,7 @@
 
 <h2> Hey there! I'm Salah Bendary</h2>
 
-<h3 align="center">Electronics and Communication Engineering Graduate | Embedded Developer</h3>
+<h3 align="center">Electronics and Communication Engineering Graduate | RAN Engineer</h3>
 
 ### <p align="center">Visitor counter<p>
 
@@ -26,11 +26,14 @@
 
 I have a deep interest in several areas that I could talk about for hours:
 
-- 🌐 **Embedded Systems Automotive**
-- 💻 **C Programming**
-- 🕰️ **RTOS (Real-Time Operating Systems)**
-- ⚙️ **ARM Architecture**
-- 🚗 **AUTOSTAR**
+- **Machine Learning**
+- **Data Mining & Visualization**
+- **Python**
+- **C Programming**
+- **Embedded Systems**
+- **RTOS (Real-Time Operating Systems)**
+- **ARM Architecture**
+
 
 ## GitHub Projects
 
