@@ -31,25 +31,7 @@ I have a deep interest in several areas that I could talk about for hours:
 - **Python**
 - **C Programming**
 - **Embedded Systems**
-- **RTOS (Real-Time Operating Systems)**
-- **ARM Architecture**
 
-
-## GitHub Projects
-
-Feel free to explore my repositories, where you'll find projects related to my interests:
-
-1. 🔗 [STM32F103x6_StartupCode](https://github.com/Salahbendary/STM32F103x6_StartupCode): Startup code for STM32F103x6 
-
-2. 🔗 [STM32F103x6_LinkerScript](https://github.com/Salahbendary/STM32F103x6_LinkerScript): Linker script for STM32F103x6 
-
-3. 🔗 [PIC18F4620_Driver](https://github.com/Salahbendary/PIC18F4620_Driver): Full PIC18F4620 microcontroller Driver. 
-
-4. 🔗 [Stop-Watch-System](https://github.com/Salahbendary/Stop-Watch-System): Stop Watch System project.
-
-5. 🔗 [Vehicle-Control-System](https://github.com/Salahbendary/VehicleControlSystem): Vehicle Control System project.
-
-6. 🔗 [Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI](https://github.com/Salahbendary/Performance-Analysis-and-Prediction-of-LTE-Networks-Using-AI): [Graduation Project] Performance Analysis and Prediction of LTE Networks Using AI
 
 <h3 align="left">Skills:</h3>
 <p align="left">
